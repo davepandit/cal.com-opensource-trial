@@ -142,6 +142,10 @@ export default function AppCard({
           )
         ) : null}
       </div>
+
+      <div>
+        hi there dave here and i this video i am going to tlak about all the basic concepts that are there in the all round development of the so called hitman the rohit sharma and the so called the hitman and the so called hitwoman and the so called  hit woman 
+      </div>
     </div>
   );
 }
